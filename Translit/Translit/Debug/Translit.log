@@ -1,0 +1,5 @@
+﻿  mainfunction.cpp
+C:\Users\Болычев Леонид\C++\Translit\Translit\mainfunction.cpp(10,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Translit.cpp
+  Создание кода...
+  Translit.vcxproj -> C:\Users\Болычев Леонид\C++\Translit\Debug\Translit.exe
